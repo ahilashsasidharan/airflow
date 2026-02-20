@@ -174,7 +174,7 @@ Alternative: pipx tool
 However, we do not want to be entirely dependent on ``uv`` as it is a software governed by a VC-backed vendor,
 so we always want to provide open-source governed alternatives for our tools. If you can't or do not want to
 use ``uv``, we got you covered. Another tool you can use to manage development tools (and ``breeze`` development
-environment is Python-Software-Foundation managed ``pipx``. The ``pipx`` tool is created by the creators
+environment) is Python-Software-Foundation managed ``pipx``. The ``pipx`` tool is created by the creators
 of ``pip`` from `Python Packaging Authority <https://www.pypa.io/en/latest/>`_
 
 Note that ``pipx`` >= 1.4.1 should be used.
